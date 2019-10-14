@@ -3,8 +3,8 @@
 Deploiement is an one page website about photography
 
 ## Installation
-```bootstrap
-
+```
+bootstrap
 ```
 
 
