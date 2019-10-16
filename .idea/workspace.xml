@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
     <list default="true" id="8e2e5c62-6b88-43ef-9494-0a5f6988d25f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,15 +45,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="27452f15-f37f-450c-99c6-23a01fe35fac" name="Default Changelist" comment="" />
+      <changelist id="8e2e5c62-6b88-43ef-9494-0a5f6988d25f" name="Default Changelist" comment="" />
       <created>1571060097709</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-
       <updated>1571060756309</updated>
       <workItem from="1571060759189" duration="5347000" />
-
-
+      <workItem from="1571228871176" duration="3101000" />
     </task>
     <servers />
   </component>
