@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2e5c62-6b88-43ef-9494-0a5f6988d25f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/deploiement-carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploiement-carousel/pic2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploiement-carousel/pic3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploiement-carousel/pic4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploiement-carousel/pic5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paris-at-night-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parisnights.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic6.jpeg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +61,7 @@
       <updated>1571060756309</updated>
       <workItem from="1571060759189" duration="5347000" />
       <workItem from="1571228871176" duration="3101000" />
+      <workItem from="1571308755876" duration="331000" />
     </task>
     <servers />
   </component>
