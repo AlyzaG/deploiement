@@ -27,6 +27,6 @@ It's not an open source project for the moment.
 ## Link
 [Picslover] (https://picslover.ml/#)
 
-## License
+
 
 
