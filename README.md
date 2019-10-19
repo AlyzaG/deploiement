@@ -12,9 +12,9 @@ bootstrap
 
 
 
-## Contributing
-- Lutiku NDONGALA
-- Alyza GUMMA SAAD
+## Authors
+- Lutiku NDONGALA - ndongalakerenn@gmail.com
+- Alyza GUMMA SAAD - alyza.gumma-saad@devinci.fr
 
 ## Link
 [Picslover] (https://picslover.ml/#)
