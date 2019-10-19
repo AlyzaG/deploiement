@@ -21,7 +21,7 @@ There's a branch for every part of the website.
 It's not an open source project for the moment. 
 
 ## Authors
-- Lutiku NDONGALA - ndongalakerenn@gmail.com
+- Lutiku NDONGALA - ndongalakerenn@edu.devinci.fr
 - Alyza GUMMA SAAD - alyza.gumma-saad@devinci.fr
 
 ## Link
