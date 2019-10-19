@@ -1,6 +1,6 @@
-# Deploiement
+# Picslover
 
-Deploiement is an one page website about photography
+Picslover is an one page website blog about photography. the website has been created to learn about coding a website with bootstrap only and to upload it.
 
 
 ## Installation
@@ -8,19 +8,16 @@ Deploiement is an one page website about photography
 bootstrap
 ```
 
-
-
-
 ## Usage
 
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- Lutiku NDONGALA
+- Alyza GUMMA SAAD
 
-Please make sure to update tests as appropriate.
-
-
+## Link
+[Picslover] (https://picslover.ml/#)
 ## License
 
-picslover.ml
+
